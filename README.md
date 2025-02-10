@@ -12,7 +12,7 @@ I love building software projects, from fullstack apps to mobile.
 * 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [https://mraihan.dev](http://mraihan.dev)
 * ✉️  You can contact me at [mraihandev@gmail.com](mailto:mraihandev@gmail.com)
-* 🚀  I'm currently working on [ParkMyBike](http://s://apps.apple.com/us/app/parkmybike-bicycle-parking/id6741011216?platform=iphone)
+* 🚀  I'm currently working on [ParkMyBike](https://apps.apple.com/us/app/parkmybike-bicycle-parking/id6741011216?platform=iphone)
 * 🧠  I'm learning Kubernetes, Redis, Grafana
 * 🤝  I'm open to collaborating on anything
 
